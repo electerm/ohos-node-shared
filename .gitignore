@@ -1,0 +1,5 @@
+# Local build output (kept out of git; published via GitHub Releases)
+scripts/output/
+
+# Downloaded release binaries (uploaded to GitHub Releases, not committed)
+.assets/
